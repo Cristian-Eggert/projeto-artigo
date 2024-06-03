@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA, para o Bootcamp Fundamentos de IA para Devs da DIO. Todos os prompts utilizados seguem abaixo.
 
-📕[Clique aqui para ler]()
+📕[Clique aqui para ler](https://github.com/Cristian-Eggert/projeto-artigo/blob/main/Artigo.pdf)
 
 💻 Tecnologias utilizadas no projeto
 
